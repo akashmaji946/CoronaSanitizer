@@ -1,4 +1,5 @@
 # CoronaSanitizer
+Space Shooter Alike Game [HTML/CSS/JS] (web application)
 This is an interactive web application (suitable for desktops) cum game similar to space shooter
 
 ## How to play the game
